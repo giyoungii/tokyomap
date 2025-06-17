@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(139, 228, 203, 1);
+    font-family: noto sans, sans-serif;
+}
+
+    .day1-btn:hover { color: #DD2E44; }
+    .day2-btn:hover { color: #2E31DD; }
+    .day3-btn:hover { color: #DD2EAB; }
+  
